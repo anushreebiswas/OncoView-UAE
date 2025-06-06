@@ -17,7 +17,7 @@ Cancer is a sensitive public health issue affecting a vulnerable population. Thi
 ## Technologies & Tools Used
 
 - **Tableau Public** – For building multi-layered dashboards  
-- **Kaggle Dataset** – Synthetic cancer dataset (fictionalized and anonymized)  
+- **Kaggle Dataset** – Synthetic cancer dataset (fictionalized and anonymized) from MIT 
 - **Calculated Fields & Filters** – For interactive exploration  
 - **Story Navigation** – Button-based section navigation within dashboard  
 - **Charts** – Line plots, bar charts, maps, boxplots, donut charts, bubble charts
